@@ -1,0 +1,33 @@
+html,
+body {
+  height: 100%;
+  background-image:url(../imagenes/fondo.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+}
+ .fondo{
+  
+        background: hsla(0, 0%, 100%, 0.8);
+        backdrop-filter: blur(0px);
+        
+    }
+    .footer {
+      height: 4rem;
+      background-color: #e2e2e2
+    }
+
+.fondofo{
+  background-color: #ECEFF1
+}
+.ffondofo{
+  background-color: #707070
+}
+.xfondo{
+  background-color: rgba(0, 0, 0, 0.2)
+}
+.bonito{
+  width: 60px; background-color: #7c4dff; height: 5px
+}
+    
