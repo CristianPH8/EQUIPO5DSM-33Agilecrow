@@ -1,0 +1,13 @@
+
+.fondocont{
+ background: hsla(0, 0%, 100%, 0.8);
+        backdrop-filter: blur(0px);
+
+}
+
+.p {
+    text-shadow: 0.02em 0.2em 0.4em rgb(0, 0, 0)
+  }
+  .sombra {
+    box-shadow: 5px 2px 5px rgb(0, 0, 0);
+  }
